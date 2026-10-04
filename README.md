@@ -15,7 +15,7 @@
 - **Health-check:** для мониторинга и CI/CD.
 - **Юнит- и интеграционные тесты:** 24 теста, покрытие ~89%.
 
-## 🛠 Стек технологий
+## Стек технологий
 
 **Backend:**
 - Node.js 22 (встроенный `node:sqlite`)
@@ -51,8 +51,6 @@
 
 - Backend: [`ghcr.io/l-monarch-l/url-shortener/backend`](https://github.com/l-Monarch-l/url-shortener/pkgs/container/url-shortener%2Fbackend)
 - Frontend: [`ghcr.io/l-monarch-l/url-shortener/frontend`](https://github.com/l-Monarch-l/url-shortener/pkgs/container/url-shortener%2Ffrontend)
-
-**Структура workflow:** [`.github/workflows/ci.yml`](.github/workflows/ci.yml)
 
 ## Требования
 
